@@ -13,19 +13,19 @@ sidebar:
   avatar: profile.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
-  email: example@email.com
+  email: yeonremy@gmail.com
   phone: 010 7160 9310
   timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
   citizenship:
-  website: https://example.com/ # Include the full website URL, including "http://" or "https://".
-  linkedin: alandoe
-  xing: alandoe
-  github: jekyll
+  website: https://hyerong.tistory.com/ # Include the full website URL, including "http://" or "https://".
+  linkedin: Hyeeun Yeon
+  # xing: alandoe
+  github: remy-yeon
   telegram: # add your nickname without '@' sign
   gitlab:
   bitbucket:
-  bluesky: '@jekyllrb.bsky.social' # Specify your full Bluesky handle
-  twitter: '@jekyllrb'
+  # bluesky: '@jekyllrb.bsky.social' # Specify your full Bluesky handle
+  # twitter: '@jekyllrb'
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
@@ -37,27 +37,27 @@ sidebar:
   languages:
     title: Languages
     info:
-    - idiom: English
+    - idiom: Korean
       level: Native
 
-    - idiom: French
+    - idiom: English
       level: Professional
 
-    - idiom: Spanish
-      level: Professional
+    # - idiom: Japanese
+    #   level: Professional
 
   interests:
     title: Interests
     info:
-    - item: Climbing
+    - item: Tidy up 
       link:
 
 
-    - item: Snowboarding
+    - item: PT 
       link:
 
 
-    - item: Cooking
+    - item: Cleaning
       link:
 
 
