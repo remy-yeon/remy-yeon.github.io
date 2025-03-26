@@ -52,15 +52,15 @@ sidebar:
   interests:
     title: Interests
     info:
-    - item: Tidy up 
+    - item: Tidy up 📦
       link:
 
 
-    - item: Gym exercise
+    - item: Gym exercise 🏋🏻‍♀️
       link:
 
 
-    - item: Cleaning
+    - item: Cleaning 🧹
       link:
 
 
@@ -268,13 +268,13 @@ skills:
   title: Skills &amp; Proficiency
 
   toolset:
-  - name: Python & Django
+  - name: Python 
     level: 98%
 
   - name: Javascript & jQuery
     level: 98%
 
-  - name: Angular
+  - name: SQL 
     level: 98%
 
   - name: HTML5 & CSS
