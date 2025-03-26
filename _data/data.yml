@@ -10,7 +10,7 @@ sidebar:
   # Profile information
   name: Hyeeun Yeon
   tagline: ML(LLM) Engineer 
-  avatar: profile.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  avatar: assets/images/progfile.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
   email: yeonremy@gmail.com
