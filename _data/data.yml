@@ -53,7 +53,7 @@ sidebar:
       link:
 
 
-    - item: PT 
+    - item: Gym exercise
       link:
 
 
@@ -73,9 +73,9 @@ career-profile:
 education:
   title: Education
   info:
-  - degree: MSc in Computer Science
-    university: University of London
-    time: 2011 - 2012
+  - degree: AI Computer Science 
+    university: Handong Global University 
+    time: 2019 - 2025. 08
     details: |
       Describe your study here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -84,18 +84,19 @@ education:
       pretium quis, sem.
         - Bullet point
         - Bullet point
-  - degree: BSc in Applied Mathematics
-    university: Bristol University
-    time: 2007 - 2011
-    details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
+  # - degree: BSc in Applied Mathematics #학사 자리 석사있으면 위에
+  #   university: Bristol University
+  #   time: 2007 - 2011
+  #   details: |
+  #     Describe your study here lorem ipsum dolor sit amet, consectetuer
+  #     adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+  #     sociis natoque penatibus et magnis dis parturient montes, nascetur
+  #     ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+  #     pretium quis, sem.
+  #       - Bullet point
+  #       - Bullet point
 
+#경력 사항 
 experiences:
   title: Experiences
   info:
