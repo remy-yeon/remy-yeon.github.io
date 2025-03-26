@@ -10,7 +10,7 @@ sidebar:
   # Profile information
   name: Hyeeun Yeon
   tagline: ML(LLM) Engineer 
-  avatar: assets/images/progfile.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  avatar: assets/images/small_progfile.jpeg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
   email: yeonremy@gmail.com
@@ -78,7 +78,7 @@ education:
   info:
   - degree: AI Computer Science 
     university: Handong Global University 
-    time: 2019 - 2025. 08
+    time: 2019. 02 - 2025. 08
     details: |
       Describe your study here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
