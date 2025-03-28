@@ -145,27 +145,21 @@ experiences:
 certifications:
   title: Certifications
   list:
-  - name: CV Builder
-    start: 2020
-    end: 2021
-    organization: Microsoft
-    credentialid: 111-222
-    credentialurl: www.google.com
-    credentialname: Google
+  - name: Engineer Information Processing
+    # start: 2020
+    # end: 2021
+    organization: HRD Korea (한국산업인력공단)
+    Date of Issue : June 17, 2022
+    # credentialid: 111-222
+    # credentialurl: www.google.com
+    # credentialname: Google
     details: |
-      Details about cert. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit.
-      Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
-      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      Praesent venenatis erat non augue suscipit consectetur.
-
-      Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-      fringilla vel. Ut euismod, sem sed vulputate venenatis,
-      justo diam viverra velit, sed rhoncus leo leo eu justo.
-      Suspendisse placerat risus ante, sed porta nisi blandit at.
+      The Engineer Information Processing certification is a national technical qualification issued by the Human Resources Development Service of Korea (HRD Korea). It is designed to assess the expertise and skills required for information processing professionals. 
+      Holders of this certification possess knowledge of computer systems, software development, database management, data structures, algorithms, computer networks, and IT security. They are qualified to design, develop, and manage information systems used in various industries.
+    
+      This certification is particularly beneficial for individuals pursuing careers in software development, IT consulting, system administration, and data analysis. It is widely recognized in both public and private sectors as proof of technical competence in information processing.
+      To obtain the certification, candidates must pass a written examination covering theoretical knowledge and a practical test assessing problem-solving abilities in real-world IT environments.
+      
   - name: Git learning
     start: 2019
     end:
