@@ -142,6 +142,7 @@ experiences:
         - Bullet point
         - Bullet point
 
+#자격증 / 인증 
 certifications:
   title: Certifications
   list:
@@ -149,7 +150,7 @@ certifications:
     # start: 2020
     # end: 2021
     organization: HRD Korea (한국산업인력공단)
-    Date of Issue : June 17, 2022
+    DateofIssue : June 17, 2022
     # credentialid: 111-222
     # credentialurl: www.google.com
     # credentialname: Google
