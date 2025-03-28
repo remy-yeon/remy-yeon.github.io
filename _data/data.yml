@@ -153,7 +153,7 @@ certifications:
     DateofIssue : June 17, 2022
     # credentialid: 111-222
     # credentialurl: www.google.com
-    # credentialname: Google
+    credentialname: Date of Issue #내 편의상 취득 날짜 아래에 들어가는 내용이라 이렇게 작성함 
     details: |
       The Engineer Information Processing certification is a national technical qualification issued by the Human Resources Development Service of Korea (HRD Korea). It is designed to assess the expertise and skills required for information processing professionals. 
       Holders of this certification possess knowledge of computer systems, software development, database management, data structures, algorithms, computer networks, and IT security. They are qualified to design, develop, and manage information systems used in various industries.
