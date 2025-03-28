@@ -160,8 +160,9 @@ certifications:
     
       This certification is particularly beneficial for individuals pursuing careers in software development, IT consulting, system administration, and data analysis. It is widely recognized in both public and private sectors as proof of technical competence in information processing.
       To obtain the certification, candidates must pass a written examination covering theoretical knowledge and a practical test assessing problem-solving abilities in real-world IT environments.
->
->    
+|
+|
+
 
   - name: Data Architecture Semi-Professional (DAsP)
     # start: 2019
@@ -176,8 +177,8 @@ certifications:
       - Data Requirements Analysis: Collecting, analyzing, and validating information requirements​
       - Data Standardization: Establishing and managing data standards​
       - Data Modeling: Performing conceptual, logical, and physical data modeling​
->
->    
+|
+| 
 
   - name: LG Aimers / Data Intelligence
     start: 2025-01-02
@@ -242,10 +243,10 @@ publications: #논문
     amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
     bibendum fringilla a eu lectus.
   papers:
-  - title: The Art of Computer Programming
-    link: "#"
-    authors: Donald E. Knuth
-    conference: Addison-Wesley, 1968
+  - title: Development of a Domain-Specialized Large Language Model for North Korea and Unification Building a Generative AI Chatbot Using PEFT and RAG Techniques
+    link: "https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE12042265&googleIPSandBox=false&mark=0&minRead=5&ipRange=false&b2cLoginYN=false&icstClss=010000&isPDFSizeAllowed=true&accessgl=Y&language=ko_KR&hasTopBanner=true"
+    authors: Hyeeun Yeon, Charmgil Hong 
+    conference: KSC, 2024
 
   - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
     link: "#"
