@@ -161,22 +161,19 @@ certifications:
       This certification is particularly beneficial for individuals pursuing careers in software development, IT consulting, system administration, and data analysis. It is widely recognized in both public and private sectors as proof of technical competence in information processing.
       To obtain the certification, candidates must pass a written examination covering theoretical knowledge and a practical test assessing problem-solving abilities in real-world IT environments.
       
-  - name: Git learning
-    start: 2019
-    end:
-    organization: Microsoft
-    credentialid: 111-222
-    credentialurl: www.github.com
-    credentialname: Github
+  - name: Data Architecture Semi-Professional (DAsP)
+    # start: 2019
+    # end:
+    organization: Korea Data Agency (KDA, 한국데이터산업진흥원)
+    DateofIssue : July 1, 2022
+    # credentialid: 111-222
+    # credentialurl: www.github.com
+    credentialname: Date of Issue 
     details: |
-      Older certification. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit.
-      Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
-      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      Praesent venenatis erat non augue suscipit consectetur.
+      The Data Architecture Semi-Professional (DAsP) certification is designed for practitioners with foundational knowledge and practical skills in enterprise architecture, focusing on data requirements analysis, data standardization, and data modeling. Key responsibilities include: 
+      - Data Requirements Analysis: Collecting, analyzing, and validating information requirements​
+      - Data Standardization: Establishing and managing data standards​
+      - Data Modeling: Performing conceptual, logical, and physical data modeling​
 
 projects:
   title: Projects
