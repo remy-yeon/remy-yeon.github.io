@@ -104,7 +104,7 @@ education:
 experiences:
   title: Experiences
   info:
-  - role: Lead Developer
+  - role: Lead Developer #HAIL lab 
     time: 2015 - Present
     company: Startup Hubs, San Francisco
     details: |
@@ -119,7 +119,7 @@ experiences:
       architecto beatae vitae dicta sunt explicabo.
         - Bullet point
         - Bullet point
-  - role: Senior Software Engineer
+  - role: Senior Software Engineer #MMIC lab 
     time: 2014 - 2015
     company: Google, London
     details: |
@@ -130,7 +130,7 @@ experiences:
       pellentesque eu, pretium quis, sem.
         - Bullet point
         - Bullet point
-  - role: UI Developer
+  - role: UI Developer #TA ; 공설입, 프론트엔드 입문 , 
     time: 2012 - 2014
     company: Amazon, London
     details: |
@@ -162,7 +162,7 @@ certifications:
       To obtain the certification, candidates must pass a written examination covering theoretical knowledge and a practical test assessing problem-solving abilities in real-world IT environments.
 >
 >    
-      
+
   - name: Data Architecture Semi-Professional (DAsP)
     # start: 2019
     # end:
@@ -176,6 +176,22 @@ certifications:
       - Data Requirements Analysis: Collecting, analyzing, and validating information requirements​
       - Data Standardization: Establishing and managing data standards​
       - Data Modeling: Performing conceptual, logical, and physical data modeling​
+>
+>    
+
+  - name: LG Aimers / Data Intelligence
+    start: 2025-01-02
+    end: 2025-02-27 
+    organization: LG AI Research 
+    DateofIssue : Febuary 27.2025
+    # credentialid: 111-222
+    # credentialurl: www.github.com
+    credentialname: Date of Issue 
+    details: |
+      ... 
+
+
+
 
 projects:
   title: Projects
@@ -219,7 +235,7 @@ oss:
     link: "#"
     tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-publications:
+publications: #논문 
   title: Publications
   intro: |
     You can list your publications in this section. Lorem ipsum dolor sit
