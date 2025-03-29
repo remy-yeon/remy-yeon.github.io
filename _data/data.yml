@@ -20,18 +20,18 @@ sidebar:
   #world wide z
   timezone: Asia/Seoul 
   # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
-  citizenship:
+  citizenship: Korea
   website: https://hyerong.tistory.com/ # Include the full website URL, including "http://" or "https://".
   linkedin: HyeeunYeon
   # xing: alandoe
   github: remy-yeon
   telegram: # add your nickname without '@' sign
-  gitlab:
-  bitbucket:
+  # gitlab: 
+  # bitbucket:
   # bluesky: '@jekyllrb.bsky.social' # Specify your full Bluesky handle
   # twitter: '@jekyllrb'
   stack-overflow: # Number/Username, e.g. 123456/alandoe
-  codewars:
+  # codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
   mastodon: # Please include your full Mastodon link here.
   hackerrank: # Please provide your HackerRank username.
@@ -74,9 +74,9 @@ career-profile:
     penatibus et magnis dis parturient montes, nascetur ridiculus mus.
     Donec quam felis, ultricies nec, pellentesque eu.
     Second paragraph if required.
-education:
+education: 
   title: Education
-  info:
+  info: 
   - degree: AI Computer Science 
     university: Handong Global University 
     time: 2019. 02 - 2025. 08
@@ -145,7 +145,7 @@ experiences:
 #자격증 / 인증 
 certifications:
   title: Certifications
-  list:
+  list: 
   - name: Engineer Information Processing
     # start: 2020
     # end: 2021
@@ -159,10 +159,7 @@ certifications:
       Holders of this certification possess knowledge of computer systems, software development, database management, data structures, algorithms, computer networks, and IT security. They are qualified to design, develop, and manage information systems used in various industries.
     
       This certification is particularly beneficial for individuals pursuing careers in software development, IT consulting, system administration, and data analysis. It is widely recognized in both public and private sectors as proof of technical competence in information processing.
-      To obtain the certification, candidates must pass a written examination covering theoretical knowledge and a practical test assessing problem-solving abilities in real-world IT environments.
-|
-|
-
+      To obtain the certification, candidates must pass a written examination covering theoretical knowledge and a practical test assessing problem-solving abilities in real-world IT environments. 
 
   - name: Data Architecture Semi-Professional (DAsP)
     # start: 2019
@@ -258,23 +255,23 @@ publications: #논문
     authors: Edgar T. Irons
     conference: "Comm. ACM 4 (1961), 51–55"
 
-recommendations:
-  title: Recommendations
-  list:
-  - person: Yareli Perez
-    email: perezyareli@example.com
-    phone: 012 345 6789
-    role: General Director at example.com
-    recommendation: |
-      Alan Doe is a super employee!
-  - person: Lara Henderson
-    email: larah@example.com
-    phone: 012 345 6789
-    role: General Director at example.com
-    recommendation: |
-      I would like to work with Alan Doe again!
+# recommendations:
+#   title: Recommendations
+#   list:
+#   - person: Yareli Perez
+#     email: perezyareli@example.com
+#     phone: 012 345 6789
+#     role: General Director at example.com
+#     recommendation: |
+#       Alan Doe is a super employee!
+#   - person: Lara Henderson
+#     email: larah@example.com
+#     phone: 012 345 6789
+#     role: General Director at example.com
+#     recommendation: |
+#       I would like to work with Alan Doe again!
 
-      He is a great employee!
+#       He is a great employee!
 
 skills:
   title: Skills &amp; Proficiency
@@ -292,11 +289,7 @@ skills:
   - name: HTML5 & CSS
     level: 95%
 
-  - name: Ruby on Rails
-    level: 85%
 
-  - name: Sketch & Photoshop
-    level: 60%
 
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
