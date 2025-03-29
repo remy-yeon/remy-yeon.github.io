@@ -239,7 +239,7 @@ publications: #논문
     bibendum fringilla a eu lectus.
   papers:
   - title: Development of a Domain-Specialized Large Language Model for North Korea and Unification Building a Generative AI Chatbot Using PEFT and RAG Techniques
-    link: "https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE12042265&googleIPSandBox=false&mark=0&minRead=5&ipRange=false&b2cLoginYN=false&icstClss=010000&isPDFSizeAllowed=true&accessgl=Y&language=ko_KR&hasTopBanner=true"
+    link: "https://dbpia.co.kr/journal/articleDetail?nodeId=NODE12042265"
     authors: Hyeeun Yeon, Charmgil Hong 
     conference: KSC, 2024
 
