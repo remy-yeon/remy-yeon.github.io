@@ -39,6 +39,12 @@
     </div>
     <!--//meta-->
 
+    {% if certifications.certimgurl %}
+    <div class="cert-image">
+      <img src="{{ certifications.certimgurl }}" alt="{{ certifications.name }} certificate" style="max-width: 300px; margin-top: 10px;" />
+    </div>
+    {% endif %}
+
     <div class="details">{{ certifications.details | markdownify }}</div>
   </div>
   <!--//item-->

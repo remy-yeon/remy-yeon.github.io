@@ -147,6 +147,7 @@ certifications:
   title: Certifications
   list:
   - name: Engineer Information Processing
+    # certimgurl: 
     # start: 2020
     # end: 2021
     organization: HRD Korea (한국산업인력공단)
@@ -171,11 +172,12 @@ certifications:
     credentialname: Date of Issue 
     details: |
       The Data Architecture Semi-Professional (DAsP) certification is designed for practitioners with foundational knowledge and practical skills in enterprise architecture, focusing on data requirements analysis, data standardization, and data modeling. Key responsibilities include: 
-      - Data Requirements Analysis: Collecting, analyzing, and validating information requirements​
+      - Data Requirements Analysis: Collecting, analyzing, and validating information requirements
       - Data Standardization: Establishing and managing data standards
       - Data Modeling: Performing conceptual, logical, and physical data modeling
 
   - name: LG Aimers / Data Intelligence
+    certimgurl: assets/images/LGaimers_6.png
     start: 2025-01-02
     end: 2025-02-27 
     organization: LG AI Research 
