@@ -25,18 +25,18 @@ sidebar:
   linkedin: HyeeunYeon
   # xing: alandoe
   github: remy-yeon
-  telegram: # add your nickname without '@' sign
+  # telegram: # add your nickname without '@' sign
   # gitlab: 
   # bitbucket:
   # bluesky: '@jekyllrb.bsky.social' # Specify your full Bluesky handle
   # twitter: '@jekyllrb'
-  stack-overflow: # Number/Username, e.g. 123456/alandoe
-  # codewars:
-  goodreads: # Number-Username, e.g. 123456-alandoe
-  mastodon: # Please include your full Mastodon link here.
-  hackerrank: # Please provide your HackerRank username.
-  leetcode: # Please provide your LeetCode username.
-  pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
+  # stack-overflow: # Number/Username, e.g. 123456/alandoe
+  # # codewars:
+  # goodreads: # Number-Username, e.g. 123456-alandoe
+  # mastodon: # Please include your full Mastodon link here.
+  # hackerrank: # Please provide your HackerRank username.
+  # leetcode: # Please provide your LeetCode username.
+  pdf: ~ # Add a PDF link here if you want to include a PDF custom version in your resume.
 
   languages:
     title: Languages
@@ -76,7 +76,7 @@ career-profile:
     Second paragraph if required.
 education: 
   title: Education
-  info: 
+  info:
   - degree: AI Computer Science 
     university: Handong Global University 
     time: 2019. 02 - 2025. 08
@@ -145,7 +145,7 @@ experiences:
 #자격증 / 인증 
 certifications:
   title: Certifications
-  list: 
+  list:
   - name: Engineer Information Processing
     # start: 2020
     # end: 2021
@@ -172,10 +172,8 @@ certifications:
     details: |
       The Data Architecture Semi-Professional (DAsP) certification is designed for practitioners with foundational knowledge and practical skills in enterprise architecture, focusing on data requirements analysis, data standardization, and data modeling. Key responsibilities include: 
       - Data Requirements Analysis: Collecting, analyzing, and validating information requirements​
-      - Data Standardization: Establishing and managing data standards​
-      - Data Modeling: Performing conceptual, logical, and physical data modeling​
-|
-| 
+      - Data Standardization: Establishing and managing data standards
+      - Data Modeling: Performing conceptual, logical, and physical data modeling
 
   - name: LG Aimers / Data Intelligence
     start: 2025-01-02
