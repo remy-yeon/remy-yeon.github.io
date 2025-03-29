@@ -179,7 +179,7 @@ certifications:
     start: 2025-01-02
     end: 2025-02-27 
     organization: LG AI Research 
-    DateofIssue : Febuary 27.2025
+    DateofIssue : February 27.2025
     # credentialid: 111-222
     # credentialurl: www.github.com
     credentialname: Date of Issue 
@@ -234,24 +234,23 @@ oss:
 publications: #논문 
   title: Publications
   intro: |
-    You can list your publications in this section. Lorem ipsum dolor sit
-    amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-    bibendum fringilla a eu lectus.
+    This is what i write papers. 
+    
   papers:
   - title: Development of a Domain-Specialized Large Language Model for North Korea and Unification Building a Generative AI Chatbot Using PEFT and RAG Techniques
     link: "https://dbpia.co.kr/journal/articleDetail?nodeId=NODE12042265"
     authors: Hyeeun Yeon, Charmgil Hong 
     conference: KSC, 2024
 
-  - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-    link: "#"
-    authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-    conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+  # - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+  #   link: "#"
+  #   authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+  #   conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-  - title: A syntax directed compiler for Algol 60
-    link: "#"
-    authors: Edgar T. Irons
-    conference: "Comm. ACM 4 (1961), 51–55"
+  # - title: A syntax directed compiler for Algol 60
+  #   link: "#"
+  #   authors: Edgar T. Irons
+  #   conference: "Comm. ACM 4 (1961), 51-55"
 
 # recommendations:
 #   title: Recommendations
