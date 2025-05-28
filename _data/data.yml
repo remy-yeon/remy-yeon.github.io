@@ -102,43 +102,41 @@ education:
 experiences:
   title: Experiences
   info:
-  - role: Lead Developer #HAIL lab 
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  # - role: Lead Developer #HAIL lab 
+  #   time: 2015 - Present
+  #   company: Startup Hubs, San Francisco
+  #   details: |
+  #     Describe your role here lorem ipsum dolor sit amet, consectetuer
+  #     adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+  #     Cum sociis natoque penatibus et magnis dis parturient montes,
+  #     nascetur ridiculus mus. Donec quam felis, ultricies nec,
+  #     pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+  #     enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+  #     error sit voluptatem accusantium doloremque laudantium, totam rem
+  #     aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+  #     architecto beatae vitae dicta sunt explicabo.
+  #       - Bullet point
+  #       - Bullet point
+  # - role: Senior Software Engineer #MMIC lab 
+  #   time: 2014 - 2015
+  #   company: Google, London
+  #   details: |
+  #     Describe your role here lorem ipsum dolor sit amet, consectetuer
+  #     adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+  #     Cum sociis natoque penatibus et magnis dis parturient montes,
+  #     nascetur ridiculus mus. Donec quam felis, ultricies nec,
+  #     pellentesque eu, pretium quis, sem.
+  #       - Bullet point
+  #       - Bullet point
+  - role: Teaching Assistant #TA ; 공설입, 프론트엔드 입문 , 
+    time: 2024 - 2025
+    # company: Amazon, London
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
-  - role: Senior Software Engineer #MMIC lab 
-    time: 2014 - 2015
-    company: Google, London
-    details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - role: UI Developer #TA ; 공설입, 프론트엔드 입문 , 
-    time: 2012 - 2014
-    company: Amazon, London
-    details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
+        - Introduction to Engineering Design (Fall 2024)
+
+        - Introduction to Front-End Development (Spring 2025)
+
+        - Career and Professional Development for Computer and Electronic Engineering Majors (Spring 2025)
 
 #자격증 / 인증 
 certifications:
