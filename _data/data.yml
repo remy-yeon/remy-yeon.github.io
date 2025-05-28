@@ -45,7 +45,7 @@ sidebar:
       level: Native
 
     - idiom: English
-      level: Professional
+      level: Advanced Low 
 
     # - idiom: Japanese
     #   level: Professional
@@ -66,14 +66,12 @@ sidebar:
 
 
 career-profile:
-  title: Career Profile
+  title: Intorduce
   summary: |
-    Summarise your career here lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit. You can [download this free resume/CV template here]().
-    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-    Donec quam felis, ultricies nec, pellentesque eu.
-    Second paragraph if required.
+      I have a strong interest in AI, particularly in Large Language Models (LLMs). Through my graduation research project and an industry-academia collaboration, I gained hands-on experience developing a chatbot service using LLMs. At the same time, I have maintained a consistent interest in data itself, as I believe in its potential to significantly influence the quality of AI models.Additionally, having briefly studied industrial design, I am also deeply interested in developing tools and interfaces that provide better services for users.
+
+
+    
 education: 
   title: Education
   info:
