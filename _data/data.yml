@@ -274,10 +274,13 @@ skills:
 
   toolset:
   - name: Python 
-    level: 98%
+    level: 100%
 
   - name: Javascript & html $ CSS
-    level: 98%
+    level: 100%
+  
+  - name: C & C++
+    level: 60%
 
 
 
