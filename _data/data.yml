@@ -68,7 +68,9 @@ sidebar:
 career-profile:
   title: Intorduce
   summary: |
-      I have a strong interest in AI, particularly in Large Language Models (LLMs). Through my graduation research project and an industry-academia collaboration, I gained hands-on experience developing a chatbot service using LLMs. At the same time, I have maintained a consistent interest in data itself, as I believe in its potential to significantly influence the quality of AI models.Additionally, having briefly studied industrial design, I am also deeply interested in developing tools and interfaces that provide better services for users.
+      I have a strong interest in AI, particularly in Large Language Models (LLMs).  
+      Through my graduation research project and an industry-academia collaboration, I gained hands-on experience developing a chatbot service using LLMs.  
+      At the same time, I have maintained a consistent interest in data itself, as I believe in its potential to significantly influence the quality of AI models.Additionally, having briefly studied industrial design, I am also deeply interested in developing tools and interfaces that provide better services for users.
 
 
     
@@ -77,13 +79,12 @@ education:
   info:
   - degree: AI Computer Science 
     university: Handong Global University 
-    time: 2019. 02 - 2025. 08
+    time: 2019. 02 - 2026. 02
     details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
+      Why so long?  
+      Because after my junior year I switched my major from Industrial Design to Computer Science. Through that transition, I built a solid foundation in CS and developed a multidisciplinary perspective that blends design and technology.  
+      In addition, during a leave of absence I completed an internship in satellite-image orthorectification and earned two Computer Science certifications.
+
         - Bullet point
         - Bullet point
   # - degree: BSc in Applied Mathematics #학사 자리 석사있으면 위에
