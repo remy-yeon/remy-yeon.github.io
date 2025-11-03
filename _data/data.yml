@@ -143,10 +143,7 @@ experiences:
 certifications:
   title: Certifications
   list:
-  - name: Engineer Information Processing
-    # certimgurl: 
-    # start: 2020
-    # end: 2021
+  - name: Engineer Information Processing # 정보처리기사 
     organization: HRD Korea (한국산업인력공단)
     DateofIssue : June 17, 2022
     # credentialid: 111-222
@@ -159,9 +156,7 @@ certifications:
       This certification is particularly beneficial for individuals pursuing careers in software development, IT consulting, system administration, and data analysis. It is widely recognized in both public and private sectors as proof of technical competence in information processing.
       To obtain the certification, candidates must pass a written examination covering theoretical knowledge and a practical test assessing problem-solving abilities in real-world IT environments. 
 
-  - name: Data Architecture Semi-Professional (DAsP)
-    # start: 2019
-    # end:
+  - name: Data Architecture Semi-Professional (DAsP)     # 데이터 아키텍처 준전가가
     organization: Korea Data Agency (KDA, 한국데이터산업진흥원)
     DateofIssue : July 1, 2022
     # credentialid: 111-222
@@ -233,7 +228,7 @@ certifications:
 publications: #논문 
   title: Publications
   intro: |
-    This is what i write papers. 
+    This is my papers related to RAG and LLMs.
     
   papers:
   - title: Development of a Domain-Specialized Large Language Model for North Korea and Unification Building a Generative AI Chatbot Using PEFT and RAG Techniques
