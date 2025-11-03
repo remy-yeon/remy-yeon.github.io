@@ -242,7 +242,7 @@ publications: #논문
     conference: KSC, 2024
 
   - title: "An Analog Circuit Layout Auto Placement and Routing System Combining Reinforcement Learning-Based RAG Prompt Optimization and DRC-Aware Routing"
-    link: "#"
+    link: "https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12331600"
     authors: SeongYoung Woo, MyungHun Ahn, HyeEun Yeon, YoungSik Kim
     conference: IEEE, 2025
 
