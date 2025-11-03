@@ -4,7 +4,7 @@
 
 sidebar:
   position: right # position of the sidebar : left or right
-  about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
   education: True # set to False if you want education in main section instead of in sidebar
 
   # Profile information
@@ -15,9 +15,9 @@ sidebar:
 
   # Sidebar links
   email: 0622yeon@naver.com
-  phone: 010 7160 9310
+  # phone: 010 7160 9310
 
-  #world wide z
+  #world wide 
   timezone: Asia/Seoul 
   # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
   citizenship: Korea
@@ -68,9 +68,10 @@ sidebar:
 career-profile:
   title: Intorduce
   summary: |
-      I have a strong interest in AI, particularly in Large Language Models (LLMs).  
-      Through my graduation research project and an industry-academia collaboration, I gained hands-on experience developing a chatbot service using LLMs.  
-      At the same time, I have maintained a consistent interest in data itself, as I believe in its potential to significantly influence the quality of AI models.Additionally, having briefly studied industrial design, I am also deeply interested in developing tools and interfaces that provide better services for users.
+      I have a strong interest in AI, especially Large Language Models (LLMs).  Through three research papers and a range of projects—including industry-academia collaborations—I gained hands-on experience building LLM-based chatbot services.  
+      Because I believe model quality is largely determined by data, I’ve maintained a consistent focus on the data itself.  
+      Above all, with a brief background in industrial design, I’m deeply interested in developing user-centered, AI-driven IT services.
+
 
 
     
@@ -268,6 +269,9 @@ skills:
   title: Skills &amp; Proficiency
 
   toolset:
+  - name: English 
+    level: 100%
+
   - name: Python 
     level: 100%
 
