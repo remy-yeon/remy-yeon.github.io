@@ -244,12 +244,12 @@ publications: #논문
   - title: "An Analog Circuit Layout Auto Placement and Routing System Combining Reinforcement Learning-Based RAG Prompt Optimization and DRC-Aware Routing"
     link: "https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12331600"
     authors: SeongYoung Woo, MyungHun Ahn, HyeEun Yeon, YoungSik Kim
-    conference: IEEE, 2025
+    conference: IEEE, 2025-summer
 
-  # - title: A syntax directed compiler for Algol 60
-  #   link: "#"
-  #   authors: Edgar T. Irons
-  #   conference: "Comm. ACM 4 (1961), 51-55"
+  - title: RAG Prompting and DQN Reinforcement Learning-Based Integrated Framework for 2stage-OpAmp Layout Automation and LPE Performance Optimization
+    link: "#"
+    authors: SeongYoung Woo, HyeEun Yeon, YoungSik Kim
+    conference: IEEE, 2025-winter
 
 # recommendations:
 #   title: Recommendations
